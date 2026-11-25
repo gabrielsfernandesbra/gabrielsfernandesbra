@@ -1,6 +1,6 @@
 # Olá, sou Gabriel S Fernandes!
 ### Graduado em Análise e Desenvolvimento de Sistemas pela URCAMP.
-### Estou me aperfeiçoamento em Segurança Ofensiva pela Cisco Networking Academy.
+### Estou em trabalhando no aperfeiçoamento pela Cisco Networking Academy em Cyber Security.
 ___
 
 <div>
